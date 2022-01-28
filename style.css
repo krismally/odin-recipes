@@ -1,0 +1,26 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;;
+    text-align: center;
+    background-color: rgb(218, 187, 161);
+}
+
+h3 {
+    color: rgba(15, 114, 28, 0.609);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title {
+    color: rgb(11, 90, 21);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ramen-pic {
+    width: 350px;
+    height: auto;
+}
+
+li {
+    text-align: left;
+}
